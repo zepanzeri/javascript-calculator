@@ -39,6 +39,10 @@
     flex-grow: 1;
 }
 
+.operations:hover{
+    background-color: rgb(255, 170, 42);
+}
+
 button{
     border: none;
     background-color:white;
@@ -86,4 +90,8 @@ p{
 
 body{
     background-color: rgb(236, 243, 255)
+}
+
+#equals:hover{
+    background-color: rgb(54, 214, 33);
 }
