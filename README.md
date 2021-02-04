@@ -1,6 +1,6 @@
 # javascript-calculator
-#en
+## EN
 Simple javascript calculator using html and css. It realizes the basic operations.
 
-#ptbr
+## PTBR
 Calculadora simples utulizando html css e javascript. Realiza as operações matemáticas básicas.
